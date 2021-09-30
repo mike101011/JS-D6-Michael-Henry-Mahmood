@@ -1,0 +1,89 @@
+let employees = `[{
+    "uniqueID" : 01,
+    "firstName" : "John",
+    "lastName" : "Doe",
+    "emailAddress" : "john.doe@email.io",
+    "jobTitle" : "Developer",
+    "salary" : 45000
+},
+    {
+    "uniqueID" : 02,
+    "firstName" : "Al",
+    "lastName" : "Magnificent",
+    "emailAddress" : "al.magnificent@email.io",
+    "jobTitle" : "Clerk",
+    "salary" : 33000
+},
+    {
+    "uniqueID" : 03,
+    "firstName" : "Olga",
+    "lastName" : "Richardson",
+    "emailAddress" : "olga.richardson@email.io",
+    "jobTitle" : "Singer",
+    "salary" : 64000
+},
+    {
+    "uniqueID" : 03,
+    "firstName" : "Lara",
+    "lastName" : "Wasinsky",
+    "emailAddress" : "lara.wasinsky@email.io",
+    "jobTitle" : "Violinist",
+    "salary" : 52000
+},
+    {
+    "uniqueID" : 04,
+    "firstName" : "John",
+    "lastName" : "Depp",
+    "emailAddress" : "john.depp@email.io",
+    "jobTitle" : "Actor",
+    "salary" : 505000
+},
+    {
+    "uniqueID" : 05,
+    "firstName" : "Ella",
+    "lastName" : "Foch",
+    "emailAddress" : "ella.foch@email.io",
+    "jobTitle" : "Professoinal Football Player",
+    "salary" : 1050000
+},
+    {
+    "uniqueID" : 06,
+    "firstName" : "Barny",
+    "lastName" : "Lebeau",
+    "emailAddress" : "barny.lebeau@email.io",
+    "jobTitle" : "Truck Driver",
+    "salary" : 34.500
+},
+    {
+    "uniqueID" : 07,
+    "firstName" : "Siegfried",
+    "lastName" : "Al-Kalani",
+    "emailAddress" : "siegfried.alkalani@email.io",
+    "jobTitle" : "Manager",
+    "salary" : 65000
+},
+    {
+    "uniqueID" : 08,
+    "firstName" : "Jan",
+    "lastName" : "Haider",
+    "emailAddress" : "jan.haider@email.io",
+    "jobTitle" : "Univ. Professor",
+    "salary" : 55000
+},
+    {
+    "uniqueID" : 09,
+    "firstName" : "Mark",
+    "lastName" : "Mason",
+    "emailAddress" : "mark.mason@email.io",
+    "jobTitle" : "Construction Worker",
+    "salary" : 30000
+},
+    {
+    "uniqueID" : 10,
+    "firstName" : "George",
+    "lastName" : "Watson",
+    "emailAddress" : "george.watson@email.io",
+    "jobTitle" : "Secretary",
+    "salary" : 40000
+}
+]`
