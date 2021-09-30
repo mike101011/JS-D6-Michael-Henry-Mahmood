@@ -4,7 +4,7 @@
 let sandwiches2 = JSON.parse(sandwiches);
 let fries2 = JSON.parse(fries);
 console.log(sandwiches2);
-document.getElementById("message").innerHTML =
+document.getElementById("message").innerHTML=
   "My favourite sandwich is " +
   sandwiches2.sandwich +
   " which has approximately " +
@@ -16,4 +16,4 @@ document.getElementById("message").innerHTML =
   " calories.";
 
 
-  // Intermediate
+ 
