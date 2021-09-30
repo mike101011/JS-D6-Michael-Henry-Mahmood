@@ -1,4 +1,5 @@
-let employees = `[{
+ let employees =`
+ [{
     "uniqueID" : 01,
     "firstName" : "John",
     "lastName" : "Doe",
@@ -86,4 +87,5 @@ let employees = `[{
     "jobTitle" : "Secretary",
     "salary" : 40000
 }
-]`
+]
+`
