@@ -1,0 +1,19 @@
+let books=`
+[
+{"title": "Javascript for Dummies",
+"author": "Serri",
+"read": false,
+"image":"https://images.pexels.com/photos/1112048/pexels-photo-1112048.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+},
+{"title": "CSS for Dummies",
+"author": "Acilio",
+"read": true,
+"image":"https://images.pexels.com/photos/415071/pexels-photo-415071.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+},
+{"title": "HTML for Dummies",
+"author": "Irati",
+"read": false,
+"image":"https://images.pexels.com/photos/8148585/pexels-photo-8148585.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+}
+]
+`
