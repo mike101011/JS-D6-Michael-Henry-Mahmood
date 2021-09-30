@@ -17,5 +17,3 @@ document.getElementById("message").innerHTML =
 
 
   // Intermediate
-
-  
